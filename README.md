@@ -1,5 +1,3 @@
 # Voice-Mouse
 
-Controling mouse cursor using speech input
-
-using google speech to text api
+A mechanism to control mouse cursor using speech input.Uses google speech to text api
